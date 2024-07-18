@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f6e123f35acde944a53c69ee0844aa8, type: 3}
+  m_Name: Darv
+  m_EditorClassIdentifier: 
+  MemberName: Darv
+  StartingLevel: 1
+  BaseHealth: 25
+  BaseStr: 7
+  BaseInitiative: 3
+  MemberBattlePrefab: {fileID: 9156806400008515645, guid: 8b5a71021845111498b4a1e9c1af4ba6,
+    type: 3}
+  MemberOverworldPrefab: {fileID: 0}
